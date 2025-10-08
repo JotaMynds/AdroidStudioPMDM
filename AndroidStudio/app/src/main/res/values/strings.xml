@@ -1,4 +1,3 @@
 <resources>
-    <string name="GanarXP">¡Has ganado 50 XP!</string>
-    <string name="SubidaDeNivel">Nivel 5 - Furia del dragon🔥</string>
+    <string name="Titulo">Calculadora</string>
 </resources>
