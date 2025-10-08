@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MiEdadCanina</string>
-    <string name="calculadora_canina">Calculadora Canina</string>
-    <string name="introduzca_su_edad">Introduzca su edad:</string>
-    <string name="edad">Edad</string>
-    <string name="calcular">CALCULAR</string>
-    <string name="EdadPerro">Si usted fuera perro tendría %d años\n</string>
-    <string name="hint">0</string>
-</resources>
